@@ -1,0 +1,19 @@
+{
+  "name": "js-one",
+  "version": "1.0.0",
+  "description": "First JS project",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "node -r esm src/main.js"
+  },
+  "keywords": [
+    "first",
+    "js"
+  ],
+  "author": "Roderick Smith",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
